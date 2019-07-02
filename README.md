@@ -1,11 +1,11 @@
-# 각종 지식 조사
+# 개발 노하우
 
-## Git
+### Git
 
-## Web개발 지식
+### Web개발 지식
 
-## 3D, Computer Graphics
+### 3D, Computer Graphics
 
-## 라이브러리
+### 라이브러리
 
-## GIS
+### GIS
