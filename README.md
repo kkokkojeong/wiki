@@ -1,3 +1,1 @@
-# share-Graphics
-# wiki
-# wiki
+# 각종 지식 조사
