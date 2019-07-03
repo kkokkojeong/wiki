@@ -17,3 +17,9 @@
   git pull origin master
  ```
 
+### 3. git stash [(참고자료)](https://gmlwjd9405.github.io/2018/05/18/git-stash.html)
+ - 작업저장 `git stash`
+ - stash 목록 확인 `git stash list`
+ - stash 적용 `git stash apply`, `git stash apply [stash@{number}]`
+ - stash 제거 `git stash drop`, `git stash drop [stash@{number}]`
+ - stash 적용과 동시에 제거(apply+drop) `git stash pop`
