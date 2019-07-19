@@ -9,3 +9,9 @@
 ### 2. Redirection
  - [Redirection in HTTP](https://developer.mozilla.org/ko/docs/Web/HTTP/Redirections)
  - [wikipediaURLredirection](https://en.wikipedia.org/wiki/URL_redirection)
+
+### 3. Label + Input
+ - https://developer.mozilla.org/ko/docs/Web/HTML/Element/label
+ 
+### 4. cookie, session
+ - https://jeong-pro.tistory.com/80
