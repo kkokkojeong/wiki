@@ -15,3 +15,6 @@
  
 ### 4. cookie, session
  - https://jeong-pro.tistory.com/80
+ 
+### 5. Throttle vs Debounce
+ - https://webclub.tistory.com/607
